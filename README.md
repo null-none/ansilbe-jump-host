@@ -1,4 +1,4 @@
-# Ansible with bastion or jump host with variables
+# Jump host with variables
 
 ### Ansible playbook structure:
 
